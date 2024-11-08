@@ -28,7 +28,7 @@ void display()
   printf("   4 : Exit\n\n ");
 }
 
-int main()
+void solve()
 {
   double balance = 0.0, amount;
   int choice;
@@ -62,7 +62,7 @@ int main()
       case 2:
         printf("Enter amount to Withdraw: ");
         scanf("%lf", &amount);
-        if (amount > balance || amount<0)
+        if (amount > balance || amount < 0)
         {
           printf("\nEnter valid amount\n");
         }
@@ -81,6 +81,12 @@ int main()
     }
   }
 }
+
+int main()
+{
+  solve();
+}
+
 
 ~~~
 ## **Output :**
