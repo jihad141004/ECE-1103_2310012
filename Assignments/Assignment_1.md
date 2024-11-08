@@ -100,8 +100,7 @@ int main()
 
 In this assignment, we developed a banking menu system that allows users to select various options based on their needs. Additionally, we implemented input validation to handle incorrect entries, ensuring a smooth and error-free user experience.</div>
 
-## Assignment Name :
-Guess the Secret Number with Limited Attempts
+## Assignment Name :Guess the Secret Number with Limited Attempts
 Create a number guessing game where the program selects a random secret number
 between 1 and 50. The user has to guess the number, and they get unlimited attempts until
 they guess correctly. However, if they exceed 10 attempts, the game stops, and a message
