@@ -154,5 +154,5 @@ Unsuccessfull guess:
 ## **Discussion :**
 <div align="justify">
 
-In this assignment we created a program where computer randomly generates a number and we had to guess that number. If we successfully guess the number in less than or equal top 10 guesses then we will get winning message or else we will get losing message.
+In this assignment, we developed a program in which the computer randomly generates a number, and the objective is for the user to guess that number. If the user successfully guesses the number within 10 attempts or fewer, a winning message is displayed; otherwise, a losing message is shown.
 </div>
