@@ -1,6 +1,5 @@
-![secret num wrong](https://github.com/user-attachments/assets/6709352e-0f37-45d1-9337-c2a9c6cd2c68)## **Assignment No : 01**
 
-## Assignment Name : Create a simple banking system in C using a switch statement to manage these menu options:
+## Assignment Name : Create a simple banking system in C using a switch statement to manage these menu options
 1.Deposit: Ask for an amount and add it to the balance.
 
 2.Withdraw: Ask for an amount and deduct it if funds are sufficient; otherwise, show an
@@ -142,13 +141,18 @@ int main(){
     solve();
 }
 ~~~
-## **Output : 1**
+## **Output :**
+Successfull guess:
 <p align="center">
 <img  alt="2310012 Secret random number" src="https://github.com/user-attachments/assets/793c5b55-af73-4645-b886-4006a8d7d155">
+</p>
+Unsuccessfull guess:
+<p align="center">
+<img  alt="2310012 Secret random number" src="https://github.com/user-attachments/assets/6fef54e2-db8f-46a1-86a0-c8da8a567c10">
 </p>
 
 ## **Discussion :**
 <div align="justify">
 
-In this assignment we created a  Banking Menu system where users can choose different options according to their needs. We also handled incorrect inputs to prevent errors.
+In this assignment we created a program where computer randomly generates a number and we had to guess that number. If we successfully guess the number in less than or equal top 10 guesses then we will get winning message or else we will get losing message.
 </div>
