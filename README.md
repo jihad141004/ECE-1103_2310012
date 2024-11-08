@@ -49,7 +49,7 @@ _**Heaven’s Light is Our Guide**_
 
 | Lab No. | Title | Link |
 | :---: | :---: | :---: |
-| 01 | Basic Problem Solving | [Lab 01](https://github.com/jihad141004/ECE-1103_2310012/blob/main/Assignments/Assignment_1.md)
+| 01 | Basic Problem Solving | [Assignment 01](https://github.com/jihad141004/ECE-1103_2310012/blob/main/Assignments/Assignment_1.md)
 
 
 </div>
