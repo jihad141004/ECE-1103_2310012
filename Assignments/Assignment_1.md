@@ -1,8 +1,9 @@
 ## Assignment 1:
 ## **Submission Date : November 8, 2024**
 
-## Assignment Name :
-Create a simple banking system in C using a switch statement to manage these menu options
+## Assignment Name :Create a simple banking system in C using a switch statement
+Create a simple banking system in C using a switch statement to manage these menu options:
+
 1.Deposit: Ask for an amount and add it to the balance.
 
 2.Withdraw: Ask for an amount and deduct it if funds are sufficient; otherwise, show an
@@ -11,7 +12,6 @@ error.
 3.Balance Inquiry: Display the current balance.
 
 4.Exit: End the program.
-
 Validate inputs to prevent negative deposits or withdrawals and handle insufficient funds.
 
 
