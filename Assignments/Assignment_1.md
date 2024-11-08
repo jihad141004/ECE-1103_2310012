@@ -1,5 +1,8 @@
+## Assignment 1:
+## **Submission Date : November 8, 2024**
 
-## Assignment Name : Create a simple banking system in C using a switch statement to manage these menu options
+## Assignment Name :
+Create a simple banking system in C using a switch statement to manage these menu options
 1.Deposit: Ask for an amount and add it to the balance.
 
 2.Withdraw: Ask for an amount and deduct it if funds are sufficient; otherwise, show an
@@ -11,7 +14,7 @@ error.
 
 Validate inputs to prevent negative deposits or withdrawals and handle insufficient funds.
 
-## **Submission Date : November 7, 2024**
+
 
 ---
 ## **Code :**
@@ -95,8 +98,7 @@ int main()
 ## **Discussion :**
 <div align="justify">
 
-In this assignment we created a  Banking Menu system where users can choose different options according to their needs. We also handled incorrect inputs to prevent errors.
-</div>
+In this assignment, we developed a banking menu system that allows users to select various options based on their needs. Additionally, we implemented input validation to handle incorrect entries, ensuring a smooth and error-free user experience.</div>
 
 ## Assignment Name :
 Guess the Secret Number with Limited Attempts
@@ -107,7 +109,7 @@ indicates that they’ve run out of attempts.
 Use a while loop to keep asking the user for guesses, and use break when:
 1.The user guesses correctly.
 2.The attempt limit (10 guesses) is reached.
----
+
 ## **Code :**
 ~~~
 #include<stdio.h>
@@ -154,5 +156,5 @@ Unsuccessfull guess:
 ## **Discussion :**
 <div align="justify">
 
-In this assignment, we developed a program in which the computer randomly generates a number, and the objective is for the user to guess that number. If the user successfully guesses the number within 10 attempts or fewer, a winning message is displayed; otherwise, a losing message is shown.
+In this assignment we created a program where computer randomly generates a number and we had to guess that number. If we successfully guess the number in less than or equal top 10 guesses then we will get winning message or else we will get losing message.
 </div>
