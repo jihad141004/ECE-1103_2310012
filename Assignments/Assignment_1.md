@@ -137,7 +137,7 @@ void solve(){
             break;
         }
     }
-    printf("\nSorry YOu lost !\n");
+    printf("\nSorry You lost !\n");
 }
 int main(){
     solve();
