@@ -73,4 +73,4 @@ int main()
 ## **Discussion :**
 <div align="justify">
 
-In this assignment, We developed a program that will give out the index of given element.If element not found a message will be shown </div>
+This program calculates the future value of a $100 investment over 5 years at various interest rates, starting with a user-entered rate and increasing by 1% for each subsequent column. It uses the compound interest formula to compute the value of the investment for each year. The results are displayed in a table format, showing the value for each interest rate over the years. The program demonstrates how interest rates impact investment growth when compounded annually. </div>
