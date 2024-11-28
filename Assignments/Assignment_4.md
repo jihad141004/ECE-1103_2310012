@@ -2,7 +2,7 @@
 ## Assignment 4:
 ## **Submission Date : November 28, 2024**
 
-## Assignment Name :Our next program prints a table showing the value of $100 invested at different rates of interest over a period of years. The user will enter an interest rate and the number of years the money will be invested. The table will show the value of the money at one-year intervals-at that interest rate and the next four higher rates- assuming that interest is compounded once a year. Here's what a session with the program will look like:
+## Assignment Name :Our next program prints a table showing the value of $100 invested at different rates of interest over a period of years. The user will enter an interest rate and the number of years the money will be invested. The table will show the value of the money at one-year intervals-at that interest rate and the next four higher rates- assuming that interest is compounded once a year.
 
 ---
 ## **Code :**
