@@ -1,5 +1,5 @@
 ## Assignment 2:
-## **Submission Date : November 28, 2024**
+## **Submission Date : November 8, 2024**
 ## Assignment Name :Guess the Secret Number with Limited Attempts
 Create a number guessing game where the program selects a random secret number
 between 1 and 50. The user has to guess the number, and they get unlimited attempts until
