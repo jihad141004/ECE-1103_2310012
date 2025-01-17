@@ -52,7 +52,7 @@ _**Heaven’s Light is Our Guide**_
 | 01 | Banking System | [Assignment 01](https://github.com/jihad141004/ECE-1103_2310012/blob/main/Assignments/Assignment_1.md)
 | 02 | Secret Number | [Assignment 02](https://github.com/jihad141004/ECE-1103_2310012/blob/main/Assignments/Assignment_2.md)
 | 03 | Index Finding | [Assignment 03](https://github.com/jihad141004/ECE-1103_2310012/blob/main/Assignments/Assignment_3.md)
-| 04 | Interest Rate | [Assignment 04](https://github.com/jihad141004/ECE-1103_2310012/blob/main/Assignments/Assignment_4.md)
+| 04 | Interest Rate + pass by value & reference | [Assignment 04](https://github.com/jihad141004/ECE-1103_2310012/blob/main/Assignments/Assignment_4.md)
 | 05 | Structure     | [Assignment 05](https://github.com/jihad141004/ECE-1103_2310012/blob/main/Assignments/Assignment_5.md)
 
 
