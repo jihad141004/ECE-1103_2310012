@@ -34,7 +34,7 @@ _**Heaven’s Light is Our Guide**_
 
 ### **Md. Abdullah al Jayed**
 #### Roll No: 2310012
-#### Registration No: 
+#### Registration No: 1065
 #### Department of Electrical and Computer Engineering
 #### Rajshahi University of Engineering and Technology
 #### Rajshahi - 6204
