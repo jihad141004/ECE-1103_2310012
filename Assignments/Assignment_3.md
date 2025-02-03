@@ -15,7 +15,7 @@ void solve()
   int key;
   printf("Enter the value you want to find: ");
   scanf("%d", &key);
-  for (int i = 0; i < 10; i++)
+  for (int i = 0; i < n; i++)
   {
     if (arr[i] == key)
     {
