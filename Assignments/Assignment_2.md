@@ -17,7 +17,7 @@ Use a while loop to keep asking the user for guesses, and use break when:
 
 void solve(){
     srand(time(NULL));
-    int secret_num = (rand()%49)+1;
+    int secret_num = (rand()%50)+1;
     int choice, count = 0;
     while(1){
         printf("Enter a number between (1-50):  ");
